@@ -1,0 +1,138 @@
+body {
+    background-color: #ff6b6b;
+}
+
+.course-company-logo {
+    width: 50%;
+    height: 35px;
+}
+
+.course-thumbnail {
+    width: 80px;
+    height: 80px;
+    margin-right: 18px;
+}
+
+.collapsible-header {
+    height: 100px;
+}
+
+.collapsible-header,
+.collapsible-body {
+    padding: 8px 12px;
+}
+
+.card-panel {
+    margin-bottom: 0;
+    border: 1px solid #ddd;
+    border-bottom-width: 0px;
+}
+
+.collapsible {
+    margin-top: 0;
+}
+
+.course-title {
+    font-weight: 400;
+}
+
+.course-description {
+    font-style: italic;
+}
+
+.course-acamica {
+    border-radius: 50%;
+}
+
+.a1 {
+    background-color: #85235b;
+}
+
+.a2 {
+    background-color: #f1f3f6;
+}
+
+.a3 {
+    background-color: #fbeede;
+}
+
+.a4 {
+    background-color: #f0992a;
+}
+
+.a5 {
+    background-color: #1aaedf;
+}
+
+.a6 {
+    background-color: #f7d947;
+}
+
+.a7 {
+    background-color: #0869ae;
+}
+
+.a8 {
+    background-color: #2ab590;
+}
+
+.a9 {
+    background-color: #201e5b;
+}
+
+.a10 {
+    background-color: #061524;
+}
+
+.a11 {
+    background-color: #504b93;
+}
+
+.a12 {
+    background-color: #f4edec;
+}
+
+.a13 {
+    background-color: #f24e14;
+}
+
+.a14 {
+    background-color: #d33333;
+}
+
+.a15 {
+    background-color: #d91b5b;
+}
+
+.a16 {
+    background-color: #8dc74d;
+}
+
+.a17 {
+    background-color: #f0dea4;
+}
+
+.a18 {
+    background-color: #d34a47;
+}
+
+.a19 {
+    background-color: #cf649a;
+}
+
+.a20 {
+    background-color: #035374;
+}
+
+.a21 {
+    background-color: #8c52a3;
+}
+
+.a22 {
+    background-color: #1b81a5;
+}
+
+.course-codecademy {
+    background-color: #204056;
+    padding: 10px;
+}

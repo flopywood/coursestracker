@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>badge</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="33.-Programacion-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="badge" sketch:type="MSArtboardGroup">
+            <g id="box-big" sketch:type="MSLayerGroup" transform="translate(35.308511, 52.250000)">
+                <rect id="Rectangle-178" fill="#CB9E75" sketch:type="MSShapeGroup" x="12.3768167" y="8.24465723" width="27.0964416" height="37.2293019"></rect>
+                <rect id="Rectangle-179" fill="#BA8D65" sketch:type="MSShapeGroup" x="39.4732583" y="8.24465723" width="27.0964416" height="37.2293019"></rect>
+                <path d="M0.0170312573,0.704534591 L12.2714538,8.24465723 L39.4732583,8.24465723 L29.1523164,0.704534591 L0.0170312573,0.704534591 L0.0170312573,0.704534591 Z" id="Rectangle-180" fill="#B78C67" sketch:type="MSShapeGroup"></path>
+                <path d="M78.4540535,0.704534591 L66.1996309,8.24465723 L38.9981151,8.24465723 L49.319057,0.704534591 L78.4540535,0.704534591 L78.4540535,0.704534591 Z" id="Rectangle-181" fill="#C09269" sketch:type="MSShapeGroup"></path>
+                <path d="M23.3105952,8.24465723 L23.3105952,18.1410503 L25.8779851,16.0812453 L28.0643366,18.1410503 L28.0643366,8.24465723 L23.3105952,8.24465723 L23.3105952,8.24465723 Z" id="Rectangle-183" fill-opacity="0.2095" fill="#F2DFC7" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-186" fill-opacity="0.2095" fill="#F2DFC7" sketch:type="MSShapeGroup" x="23.3105952" y="40.2898208" width="4.75374143" height="5.1838522"></rect>
+                <path d="M12.3768167,14.8418711 L12.3768167,8.24437107 L39.4732583,8.24437107 L31.6227147,14.8418711 L12.3768167,14.8418711 L12.3768167,14.8418711 Z" id="Rectangle-182" fill-opacity="0.6302" fill="#AF733E" sketch:type="MSShapeGroup"></path>
+                <path d="M49.9486362,0.23322327 L47.8913181,1.75933333 L76.860332,1.66718868 L79.2548113,0.23322327 L49.9486362,0.23322327 L49.9486362,0.23322327 Z" id="Rectangle-184" fill-opacity="0.4147" fill="#DEC59E" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

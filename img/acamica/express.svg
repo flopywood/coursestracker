@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>badge</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="42.-Express" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="badge" sketch:type="MSArtboardGroup">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(52.500000, 35.000000)">
+                <rect id="Rectangle-path" fill="#302F30" sketch:type="MSShapeGroup" x="0.517" y="76.761" width="43.359" height="2.914"></rect>
+                <rect id="Rectangle-path" fill="#070707" sketch:type="MSShapeGroup" x="4.287" y="73.505" width="36.676" height="3.256"></rect>
+                <path d="M44.734,73.05 C44.734,73.775 44.134,74.362 43.396,74.362 L1.855,74.362 C1.117,74.362 0.517,73.775 0.517,73.05 L0.517,1.636 C0.517,0.911 1.117,0.324 1.855,0.324 L43.396,0.324 C44.134,0.324 44.734,0.911 44.734,1.636 L44.734,73.05 L44.734,73.05 Z" id="Shape" fill="#1E1E1E" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-path" fill="#444444" sketch:type="MSShapeGroup" x="3.781" y="4.798" width="38.03" height="8.39"></rect>
+                <rect id="Rectangle-path" fill="#444444" sketch:type="MSShapeGroup" x="3.781" y="16.139" width="38.03" height="8.39"></rect>
+                <rect id="Rectangle-path" fill="#444444" sketch:type="MSShapeGroup" x="3.781" y="27.478" width="38.03" height="8.39"></rect>
+                <rect id="Rectangle-path" fill="#444444" sketch:type="MSShapeGroup" x="3.781" y="38.819" width="38.03" height="8.39"></rect>
+                <rect id="Rectangle-path" fill="#444444" sketch:type="MSShapeGroup" x="3.781" y="50.16" width="38.03" height="8.39"></rect>
+                <rect id="Rectangle-path" fill="#444444" sketch:type="MSShapeGroup" x="3.781" y="61.5" width="38.03" height="8.39"></rect>
+                <circle id="Oval" fill="#90C087" sketch:type="MSShapeGroup" cx="40.318" cy="68.301" r="0.712"></circle>
+                <circle id="Oval" fill="#B72C53" sketch:type="MSShapeGroup" cx="37.95" cy="68.301" r="0.713"></circle>
+                <circle id="Oval" fill="#90C087" sketch:type="MSShapeGroup" cx="40.318" cy="56.817" r="0.712"></circle>
+                <circle id="Oval" fill="#B72C53" sketch:type="MSShapeGroup" cx="37.95" cy="56.817" r="0.713"></circle>
+                <circle id="Oval" fill="#90C087" sketch:type="MSShapeGroup" cx="40.318" cy="45.436" r="0.712"></circle>
+                <circle id="Oval" fill="#B72C53" sketch:type="MSShapeGroup" cx="37.95" cy="45.436" r="0.713"></circle>
+                <circle id="Oval" fill="#90C087" sketch:type="MSShapeGroup" cx="40.318" cy="34.275" r="0.712"></circle>
+                <circle id="Oval" fill="#B72C53" sketch:type="MSShapeGroup" cx="37.95" cy="34.275" r="0.713"></circle>
+                <circle id="Oval" fill="#90C087" sketch:type="MSShapeGroup" cx="40.318" cy="22.838" r="0.712"></circle>
+                <circle id="Oval" fill="#B72C53" sketch:type="MSShapeGroup" cx="37.95" cy="22.838" r="0.713"></circle>
+                <circle id="Oval" fill="#90C087" sketch:type="MSShapeGroup" cx="40.318" cy="11.679" r="0.712"></circle>
+                <circle id="Oval" fill="#B72C53" sketch:type="MSShapeGroup" cx="37.95" cy="11.679" r="0.713"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

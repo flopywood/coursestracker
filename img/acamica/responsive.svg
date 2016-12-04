@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>badge</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="40.-Responsive-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="badge" sketch:type="MSArtboardGroup">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(38.116883, 35.000000)">
+                <path d="M19.1979221,0.697142857 C17.2664935,0.697142857 15.6997403,2.2587013 15.6997403,4.19012987 L15.6997403,71.9750649 C15.6997403,73.9044156 17.2623377,75.4680519 19.1979221,75.4680519 L69.5044156,75.4680519 C71.4358442,75.4680519 73.0015584,73.9064935 73.0015584,71.9750649 L73.0015584,4.19012987 C73.0015584,2.26077922 71.44,0.697142857 69.5044156,0.697142857 L19.1979221,0.697142857 L19.1979221,0.697142857 Z" id="Rectangle-24_1_" fill="#696565" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-path" fill="#FFFFFF" sketch:type="MSShapeGroup" x="19.518961" y="9.64363636" width="49.6623377" height="54.961039"></rect>
+                <rect id="Rectangle-7_1_" opacity="0.3" fill="#EC4E4E" sketch:type="MSShapeGroup" x="21.9885714" y="11.8774026" width="44.7241558" height="6.98909091"></rect>
+                <rect id="Rectangle-12_1_" fill="#EC4E4E" sketch:type="MSShapeGroup" x="22.6877922" y="12.5755844" width="43.3257143" height="5.59064935"></rect>
+                <rect id="Rectangle-8_1_" opacity="0.3021" fill="#609ADD" sketch:type="MSShapeGroup" x="21.9885714" y="20.9620779" width="25.8566234" height="39.8327273"></rect>
+                <rect id="Rectangle-10_1_" fill="#609AB9" sketch:type="MSShapeGroup" x="23.387013" y="22.3594805" width="23.0597403" height="36.3387013"></rect>
+                <rect id="Rectangle-9_1_" opacity="0.3" fill="#609ADD" sketch:type="MSShapeGroup" x="49.2425974" y="20.9620779" width="17.4701299" height="39.8327273"></rect>
+                <rect id="Rectangle-11_1_" fill="#609AB9" sketch:type="MSShapeGroup" x="50.64" y="22.3594805" width="14.6753247" height="36.3387013"></rect>
+                <rect id="Rectangle-13_1_" fill="#95CAEE" sketch:type="MSShapeGroup" x="26.1818182" y="25.1553247" width="18.1683117" height="1.3974026"></rect>
+                <rect id="Rectangle-14_1_" fill="#95CAEE" sketch:type="MSShapeGroup" x="26.1818182" y="27.9501299" width="18.1683117" height="1.3974026"></rect>
+                <rect id="Rectangle-15_1_" fill="#95CAEE" sketch:type="MSShapeGroup" x="26.1818182" y="30.745974" width="18.1683117" height="1.3974026"></rect>
+                <rect id="Rectangle-16_1_" fill="#95CAEE" sketch:type="MSShapeGroup" x="26.1818182" y="33.5407792" width="18.1683117" height="1.3974026"></rect>
+                <g transform="translate(0.000000, 29.090909)" sketch:type="MSShapeGroup">
+                    <path d="M4.51844156,0.955844156 L24.0862338,0.955844156 C26.0145455,0.955844156 27.5792208,2.52051948 27.5792208,4.44987013 L27.5792208,45.68 C27.5792208,47.6093506 26.0145455,49.172987 24.0862338,49.172987 L4.51844156,49.172987 C2.59116883,49.172987 1.02545455,47.6093506 1.02545455,45.68 L1.02545455,4.44987013 C1.02545455,2.52051948 2.59012987,0.955844156 4.51844156,0.955844156 L4.51844156,0.955844156 Z" id="Rectangle-19_1_" fill="#696565"></path>
+                    <path d="M14.3023377,3.49298701 L14.3023377,3.49298701 C15.6997403,3.49298701 16.8322078,3.63532468 16.8322078,3.81090909 L16.8322078,3.81090909 C16.8322078,3.98649351 15.6997403,4.12883117 14.3023377,4.12883117 L14.3023377,4.12883117 C12.9049351,4.12883117 11.7724675,3.98649351 11.7724675,3.81090909 L11.7724675,3.81090909 C11.7724675,3.63532468 12.9049351,3.49298701 14.3023377,3.49298701 L14.3023377,3.49298701 Z" id="Rectangle-20_1_" fill="#EEEEEE"></path>
+                    <ellipse id="Oval-1_1_" fill="#EEEEEE" cx="14.3023377" cy="45.3672727" rx="1.8961039" ry="1.90441558"></ellipse>
+                    <rect id="Rectangle-21_1_" fill="#FFFFFF" x="3.55428571" y="6.66597403" width="21.4950649" height="35.5283117"></rect>
+                </g>
+                <rect id="Rectangle-17_1_" fill="#EC4E4E" sketch:type="MSShapeGroup" x="5.21766234" y="37.732987" width="18.1693506" height="5.59064935"></rect>
+                <rect id="Rectangle-18_1_" opacity="0.3" fill="#EC4E4E" sketch:type="MSShapeGroup" x="4.51844156" y="37.0348052" width="19.5677922" height="6.98909091"></rect>
+                <rect id="Rectangle-25_1_" fill="#609ADD" sketch:type="MSShapeGroup" x="5.21766234" y="46.1194805" width="18.1693506" height="10.4820779"></rect>
+                <rect id="Rectangle-26_1_" opacity="0.3021" fill="#609AB9" sketch:type="MSShapeGroup" x="4.51844156" y="45.4202597" width="19.5677922" height="11.1812987"></rect>
+                <rect id="Rectangle-28_1_" fill="#609ADD" sketch:type="MSShapeGroup" x="5.21766234" y="58.6981818" width="18.1693506" height="7.68623377"></rect>
+                <rect id="Rectangle-27_1_" opacity="0.3021" fill="#609AB9" sketch:type="MSShapeGroup" x="4.51844156" y="57.998961" width="19.5677922" height="9.08363636"></rect>
+                <rect id="Rectangle-29_1_" fill="#95CAEE" sketch:type="MSShapeGroup" x="6.61506494" y="47.5158442" width="15.3735065" height="1.39844156"></rect>
+                <rect id="Rectangle-30_1_" fill="#95CAEE" sketch:type="MSShapeGroup" x="6.61506494" y="50.3127273" width="15.3735065" height="1.3974026"></rect>
+                <rect id="Rectangle-31_1_" fill="#95CAEE" sketch:type="MSShapeGroup" x="6.61506494" y="53.1075325" width="15.3735065" height="1.3974026"></rect>
+                <ellipse id="Oval" fill="#EEEEEE" sketch:type="MSShapeGroup" cx="44.0322078" cy="70.0374026" rx="2.86545455" ry="2.87584416"></ellipse>
+                <path d="M41.1688312,4.53090909 C40.8166234,4.53090909 40.5298701,4.81454545 40.5298701,5.16987013 C40.5298701,5.52311688 40.8218182,5.80883117 41.1688312,5.80883117 L47.5314286,5.80883117 C47.8846753,5.80883117 48.1703896,5.52519481 48.1703896,5.16987013 C48.1703896,4.81662338 47.8805195,4.53090909 47.5314286,4.53090909 L41.1688312,4.53090909 L41.1688312,4.53090909 Z" id="Shape" fill="#EEEEEE" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
